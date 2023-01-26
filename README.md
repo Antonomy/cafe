@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/sei-cafe">
+  <a href="https://github.com/Antonomy/sei-cafe">
     <img src="https://avatars.githubusercontent.com/u/24372514?v=4" alt="Logo" width="80" height="80">
   </a>
 
@@ -81,30 +81,31 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm install npm@latest -g
   ```
+* node.js
+    Download & install [node.js](https://nodejs.org/en/)
 
 ### Installation
 
 1. Get Excited! - Good or bad, you're embarking on a new adventure!
-2. Download & install [node.js](https://nodejs.org/en/)
-3. Clone the repo
+2. Clone the repo
    ```sh
    git clone https://github.com/Antonomy/sei-cafe.git
    ```
-4. Install NPM packages
+3. Install NPM packages
    ```sh
    npm i
    ```
-5. Duplicate the `.env-example` file and rename it to `.env`. 
-6. Update `MONGO_URI` and `SECRET` to your own.
+4. Duplicate the `.env-example` file and rename it to `.env`. 
+5. Update `MONGO_URI` and `SECRET` to your own.
     ```
     MONGO_URI=mongodb+srv://xxx
     SECRET=thiscanbeanythingyouwant
     ```
-7. Start Back-End
+6. Start Back-End
    ```
    npm run dev
    ```
-8. Start Front-End
+7. Start Front-End
    ```
    npm run react
    ```
@@ -121,7 +122,7 @@ This is an example of how to list things you need to use the software and how to
 - [x] Checkout Cart
 - [x] Order History
 
-See the [open issues](https://github.com/github_username/sei-cafe/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Antonomy/sei-cafe/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
