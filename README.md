@@ -6,7 +6,7 @@
     <img src="https://avatars.githubusercontent.com/u/24372514?v=4" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">To-Do List</h3>
+<h3 align="center">Cafe Application</h3>
 
   <p align="center">
     A strong restaurant order taking application utilizing the MERN stack, REST Architecture, and MVC Framework. 
@@ -76,7 +76,6 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
   npm install npm@latest -g
