@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/Antonomy/sei-cafe">
+  <a href="https://github.com/Antonomy/cafe">
     <img src="https://avatars.githubusercontent.com/u/24372514?v=4" alt="Logo" width="80" height="80">
   </a>
 
@@ -11,13 +11,13 @@
   <p align="center">
     A strong restaurant order taking application utilizing the MERN stack, REST Architecture, and MVC Framework. 
     <br />
-    <a href="https://github.com/Antonomy/sei-cafe"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Antonomy/cafe"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/Antonomy/sei-cafe">View Demo</a>
+    <a href="https://antonomy.github.io/cafe/">View Demo</a>
     ·
-    <a href="https://github.com/Antonomy/sei-cafe/issues">Report Bug</a>
+    <a href="https://github.com/Antonomy/cafe/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Antonomy/sei-cafe/issues">Request Feature</a>
+    <a href="https://github.com/Antonomy/cafe/issues">Request Feature</a>
   </p>
 </div>
 <details>
@@ -88,7 +88,7 @@ To get a local copy up and running follow these simple example steps.
 1. Get Excited! - Good or bad, you're embarking on a new adventure!
 2. Clone the repo
    ```sh
-   git clone https://github.com/Antonomy/sei-cafe.git
+   git clone https://github.com/Antonomy/cafe.git
    ```
 3. Install NPM packages
    ```sh
@@ -121,7 +121,7 @@ To get a local copy up and running follow these simple example steps.
 - [x] Checkout Cart
 - [x] Order History
 
-See the [open issues](https://github.com/Antonomy/sei-cafe/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Antonomy/cafe/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,18 +144,18 @@ Don't forget to give the project a star ⭐! Thanks again!
 
 # Contact
 
-Antony Yu
+<a href="https://github.com/Antonomy" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/antonyyu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://antonyyu.com" target="_blank"><img alt="Book Time on My Calendar" src="https://img.shields.io/badge/Website-45b8d8.svg?&style=for-the-badge&logo=react&logoColor=white" /></a>
 
-Email: antonyyu@gmail.com
-
-[Connect on LinkedIn](https://www.linkedin.com/in/antonyyu/)
+<a href="mailto:hello@antonyyu.com" target="_blank"><img alt="Email Me" src="https://img.shields.io/badge/Email%20me-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://calendly.com/antonyyu" target="_blank"><img alt="Book Time on My Calendar" src="https://img.shields.io/badge/Book%20Time%20with%20me-4285F4.svg?&style=for-the-badge&logo=googlecalendar&logoColor=white" /></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 # Acknowledgments
 
-* First, I thank myself because I worked hard on this and I'm proud of myself.
 * Friends and Family - Life wouldn't be as fun without you in it. Thank you for putting up with me.
 * Third Degree Burns Family - We made it through and you were all a part of making me the engineer I am.
 
